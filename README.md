@@ -2,18 +2,18 @@
 Python implementations of Data Structures and Algorithms for coding interview preparation
 
 📚 Topics Covered :
-            1] Arrays
-            2] Strings
-            3] Searching
-            4] Sorting
-            5] Linked Lists
-            6] Stack
-            7] Queue
-            8] Recursion
-            9] Trees
-            10] Graphs
-            11] Greedy Algorithms
-            12] Dynamic Programming
+1] Arrays
+2] Strings
+3] Searching
+4] Sorting
+5] Linked Lists
+6] Stack
+7] Queue
+8] Recursion
+9] Trees
+10] Graphs
+11] Greedy Algorithms
+12] Dynamic Programming
 
 
 💻 Problem Solving :
