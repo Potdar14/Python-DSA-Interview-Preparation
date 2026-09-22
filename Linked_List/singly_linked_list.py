@@ -8,7 +8,7 @@ class SLL:
         self.head = None
 
     # Insert at beginning
-    def insert(self, data):
+    def first(self, data):
         new = Node(data)
         new.next = self.head
         self.head = new
@@ -36,7 +36,7 @@ class SLL:
 
   
     # Delete first node
-    def delete(self):
+    def dl_first(self):
         if self.head is None:
             print("Empty List")
             return
@@ -104,7 +104,15 @@ N3.next = N4
 N5 = Node(55)
 N4.next = N5
 
-# to get output we will call that function we want..
+# to get output we will call that function
+# Operations
+# s.first(88)
+# s.last(14)
+# s.middle(90, 2)
+
+# s.dl_first()
+# s.dl_last()
+# s.dl_mid(3)
 
 # Display
 s.display()
