@@ -1,3 +1,8 @@
+## --- Insertion and Deletion in SLL ---
+# Note - here the connection will be forward direction only, means a node has next part only. 
+# and always we have to assign 1st node as head node and while doing operations we assign temp as head node
+# because we can't move head if we move our start node will be loss so that we will move temo always. 
+
 class Node:
     def __init__(self, data):
         self.data = data
